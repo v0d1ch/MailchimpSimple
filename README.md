@@ -1,3 +1,6 @@
+------------------------------------------------------------
+This fork contains updated base version and stack support
+------------------------------------------------------------
 # MailchimpSimple
 A library to handle mailing lists in Mailchimp (http://mailchimp.com/)
 
